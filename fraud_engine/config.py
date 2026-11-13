@@ -9,7 +9,7 @@ N_SPLITS = 5
 N_REPEATS = 3
 
 ROOT = Path(__file__).resolve().parents[2]
-DATA_PATH = ROOT / "transaction_fraud_risk_advanced_dataset.csv"
+DATA_PATH = ROOT / "data" / "transaction_fraud_risk_advanced_dataset.csv"
 OUT = ROOT / "outputs"
 FIG = OUT / "figures"
 SUPP = OUT / "supplementary"
