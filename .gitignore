@@ -1,0 +1,16 @@
+# VS Code Settings
+*.vscode/
+
+# Virtual Environment
+venv/
+
+# Outputs Folder
+outputs/
+
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
